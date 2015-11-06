@@ -1,0 +1,7 @@
+Android project developed with the expansion of the screen WVGA Landscape 800x480.
+
+Demo version of the flying machine project. 
+
+It is an example of car rasing with an unusual approach. 
+
+The project provides three types of competitions: circles, competitions shootout and sprint.
